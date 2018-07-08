@@ -1,3 +1,6 @@
+simple server in node.js
+https://zszywka.github.io/serverNode.js/
+------------------------------------------------------------------------------------------------------------------------------
 You should:
 1. create package.json (write in the console): -> npm init -y
 2. add packages (write in the console): -> npm install express
